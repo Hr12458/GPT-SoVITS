@@ -66,3 +66,4 @@ class Config:
         self.webui_port_subfix = webui_port_subfix
 
         self.api_port = api_port
+is_share=True
